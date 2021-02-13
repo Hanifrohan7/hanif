@@ -1,0 +1,163 @@
+ *{margin:0;padding:0;}
+ .border {
+    background: aquamarine;
+    color: aquamarine;
+}
+ 
+.logo img {
+    width: 105px;
+    height: 105px;
+    margin-top: -22px;
+    position: relative;
+	float:left;
+}
+.menu {
+    width: 900px;
+    float: left;
+    position: fixed;
+    height: 100px;
+}
+
+ul.mainMenuItem {
+    list-style: none;
+    float: left;
+    margin-left: 301px;
+}
+
+ul.mainMenuItem li {
+    float: left;
+}
+
+ul.mainMenuItem li a {
+    text-decoration: none;
+    font-family: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 26px;
+	color:#0e0e0e;
+	transition:0.5s;
+	 
+} 
+ ul.mainMenuItem li a:hover{
+	 
+	 color:lime;
+	 background:tomato;
+	 
+ }
+ul.mainMenuItem li a img {
+    margin-top: -4px;
+}
+.picture1 img{
+	width:1024px;
+	height:624px;
+}
+
+.about1 {
+    width: 386px;
+    height: 222px;
+    margin-top: 33px;
+}
+
+.about1 b {
+    margin-left: 71px;
+    background: greenyellow;
+    font-size: 20px;
+    font-family: monospace;
+		transition:0.5s;
+}
+
+.about1 p {
+    font-family: -webkit-pictograph;
+    text-align: left;
+    margin-left: 147px;
+    margin-top: 10px;
+}
+
+.imgH {
+    width: 1024px;
+    
+}
+
+ 
+
+.imgH img {
+    width: 411px;
+    margin-left: 487px;
+    margin-top: -245px;
+}
+
+ .detelss {
+    width: 245px;
+    margin-top: 84px;
+    margin-left: 131px;
+	font-family:-webkit-pictograph;
+}
+
+.detelss h3 {
+    margin-left: -39px;
+    color: brown;
+    font-family: system-ui;
+	transition:0.5s;
+	background:blue;
+	text-align:center;
+	
+}
+.z img {
+    width: 22px;
+}
+
+.z p {
+    margin-left: 23px;
+    margin-top: -27px;
+}
+
+.x img {
+    width: 22px;
+    margin-top: 16px;
+}
+
+.x p {
+    margin-left: 21px;
+    margin-top: -28px;
+    float: left;
+}
+
+.v img {
+    width: 22px;
+    float: left;
+    margin-top: 6px;
+}
+
+.r img {
+    width: 22px;
+    float: left;
+    margin-top: 5px;
+}
+
+.poll {margin-left: 485px;margin-top: -215px;
+ font-family: system-ui;
+}
+
+footer#hhh {
+    background: slategray;
+    margin-top:70px;
+}
+
+.copy h2 {
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    text-shadow: 1px 1px 1px white;
+}
+
+.privete {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    padding: 5px;
+}
+
+ 
